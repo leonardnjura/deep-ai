@@ -25,6 +25,7 @@ app.use(
     saveUninitialized: true
   })
 );
+app.use( express.static( "public" ) );
 
 // Passport middleware
 app.use(passport.initialize());
