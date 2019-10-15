@@ -3,8 +3,99 @@
   <i class="mdi mdi-account-circle mdi-24px"></i> <%= name %>
 </p>
 <p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ullam architecto
-  accusantium ipsum, voluptatibus nisi amet itaque, quae ad odit, expedita
-  praesentium laudantium ipsam aperiam quas. Excepturi eos animi id.
+  Incoporates TensorFlow Machine learning algorithms to help detect the
+  likelihood that an image contains noodz and should be considered NSFW. Returns
+  a score between 0 and 1, with 1 being 100% A.I. confidence. Labels are used to
+  censor highlighted areas.
 </p>
 <a href="/users/signout" class="btn btn-secondary">Sign Out</a>
+
+<style>
+  #rpt {
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .ai {
+    color: wheat;
+    position: absolute;
+    top: 13px;
+    right: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: 0.7rem;
+    z-index: 1;
+  }
+
+  #preview {
+    width: 50px;
+    height: auto;
+    border-radius: 0px;
+    cursor: pointer;
+    float: right;
+    margin-bottom: 7px;
+  }
+
+  #image-url {
+    background: #222;
+    border: #222;
+  }
+</style>
+
+<div class="row mt-5 mb-5">
+  <div class="col-md-6 m-auto">
+    <div class="card card-body">
+      <div class="form-group">
+        <input type="file" id="imageUpload" accept="image/*" />
+      </div>
+
+      <h4 class="ai text-center mb-3">
+        A.I. 🀄️ NSFW Detection
+      </h4>
+
+      <div id="rpt"></div>
+      <img
+        id="preview"
+        src="assets/images/file.png"
+        alt=""
+        title="Click to set image"
+      />
+      <div>
+        <!-- <label for="image-url">Url</label> -->
+        <input
+          type="url"
+          id="image-url"
+          class="form-control"
+          placeholder="Url.."
+        />
+      </div>
+      <button id="test-button" class="btn btn-secondary mt-3">
+        <i class="mdi mdi-cube-send"></i> Analyze!
+      </button>
+      <p class=" mt-4">
+        Deeper analysis algorithm?
+        <a href="https://deepai.org/machine-learning-model/nsfw-detector"
+          >Here..</a
+        ><br />
+
+        <small>
+          NOTE: acccess to deeper training data sets or models can be found with
+          premium API plans. This app was developed with the sole goal of
+          protecting resources and illustrating AI as would be used by Tumblr.
+          See article by The Verge <a
+            href="https://www.theverge.com/2019/1/30/18202474/tumblr-porn-ai-nudity-artificial-intelligence-machine-learning"
+            >here</a
+          >. <br />Discover more machine learning categories at
+          <a
+            href="https://deepai.org/machine-learning-glossary-and-terms/artificial-intelligence"
+            >here</a
+          >.
+        </small>
+      </p>
+    </div>
+  </div>
+</div>
