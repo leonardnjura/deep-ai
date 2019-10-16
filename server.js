@@ -15,7 +15,7 @@ require('./config/passport')(passport);
 // MIDDLEWARE
 // Body parser
 app.use(express.json());
-app.use(express.urlencoded({ extended: false })); // redundant?
+app.use(express.urlencoded({ extended: false }));
 
 // Express session
 app.use(
@@ -52,7 +52,7 @@ app.use('/users', require('./routes/users'));
 
 // Routes - api
 app.use('/api/auth', require('./routes/api/users'));
-app.use('/api/items', require('./routes/api/items'));
+app.use('/api/beds', require('./routes/api/beds'));
 
 // Database - mongo atlas
 const db = process.env.MONGO_URI;

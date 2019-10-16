@@ -4,7 +4,7 @@ NGFW artificial intelligence with human anatomy and protecting some pages with p
 
 ## What?
 
-Uses machine learning on training sets bases off of libraries like tensorflow to build a frontend moderation app backed by mongo atlas saas. This web platform allows test sets via local image uploads or url
+Uses machine learning on training sets based off of libraries like tensorflow to build a frontend moderation app backed by mongo atlas saas. This web platform allows test sets via local image uploads or url
 
 ## Setup
 
