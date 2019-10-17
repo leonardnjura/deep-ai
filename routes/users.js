@@ -61,14 +61,14 @@ router.post('/signup', (req, res) => {
           password2
         });
       } else {
-        // Ok to save
+        // Ok to save [ui]
         const newUser = new User({
           name,
           email,
           password
         });
 
-        // Hash
+        // Hash for passport
         bcrypt.genSalt(10, (err, salt) =>
           bcrypt.hash(newUser.password, salt, (err, hash) => {
             if (err) throw err;
@@ -97,15 +97,12 @@ router.post('/signin', (req, res, next) => {
   })(req, res, next);
 });
 
-
-
 // @desc    Logout
 // @access  Public
 router.get('/signout', (req, res) => {
   req.logout();
-  req.flash('success_msg', 'You are signed out')
-  res.redirect('signin')
+  req.flash('success_msg', 'You are signed out');
+  res.redirect('signin');
 });
-
 
 module.exports = router;
