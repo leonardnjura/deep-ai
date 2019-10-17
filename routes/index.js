@@ -14,7 +14,9 @@ router.get('/', (req, res) => {
 // @access  Public
 router.get('/dashboard', membersOnly, (req, res) => {
   res.render('dashboard', {
-    name: req.user.name
+    name: req.user.name,
+    email: req.user.email,
+    id: req.user._id
   });
 });
 
