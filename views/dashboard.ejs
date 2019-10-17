@@ -1,12 +1,14 @@
 <h1 class="mt-4">Deep A.I.</h1>
 <p class="lead mb-3">
-  <i class="mdi mdi-account-circle mdi-24px"></i> <%= name %>
+  <i class="mdi mdi-account-circle mdi-24px"></i>
+  <span id="agent"><%= name %></span>
+  <input type="hidden" id="agent-id" value="<%= id %>" />
 </p>
 <p>
-  Incoporates TensorFlow Machine learning algorithms to help detect the
-  likelihood that an image contains noodz and should be considered NSFW. Returns
-  a score between 0 and 1, with 1 being 100% A.I. confidence. Labels are used to
-  censor highlighted areas.
+  Incoporates machine learning to help detect the likelihood that an image
+  contains noodz and should be considered NSFW. Returns a score between 0 and 1,
+  with 1 being 100% A.I. confidence. Html layers used as labels also censor
+  highlighted areas. Only a thumbnail preview is used if picking a local file
 </p>
 <a href="/users/signout" class="btn btn-secondary">Sign Out</a>
 
@@ -86,7 +88,8 @@
           NOTE: acccess to deeper training data sets or models can be found with
           premium API plans. This app was developed with the sole goal of
           protecting resources and illustrating AI as would be used by Tumblr.
-          See article by The Verge <a
+          See article by The Verge
+          <a
             href="https://www.theverge.com/2019/1/30/18202474/tumblr-porn-ai-nudity-artificial-intelligence-machine-learning"
             >here</a
           >. <br />Discover more machine learning categories at
