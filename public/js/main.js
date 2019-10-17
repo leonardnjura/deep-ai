@@ -1,6 +1,7 @@
 deepai.setApiKey('8011831a-8564-4113-9773-605a769cf2d9');
-const host = `https://lno-deepai.herokuapp.com`;
-const defaultTestInput = `https://user-images.githubusercontent.com/39657549/66860707-616a4c80-ef96-11e9-8d9f-70ce9bf7ca67.jpg`;
+let host = `https://lno-deepai.herokuapp.com`;
+// host = `http://localhost:5001`;
+const defaultTestInput = `https://user-images.githubusercontent.com/39657549/66970886-ac1fbd80-f097-11e9-9fec-e3804475f9a4.jpg`;
 const testButton = document.querySelector('#test-button');
 
 testButton.onclick = function() {
@@ -19,6 +20,7 @@ $('#preview').click(function() {
 });
 
 async function analyzeImage(imageUrl = '') {
+  let output = null;
   $('#rpt').html(
     '<i class="mdi mdi-chart-donut-variant mdi-48px mdi-spin"></i> Working..'
   );
@@ -32,14 +34,17 @@ async function analyzeImage(imageUrl = '') {
       var result = await deepai.callStandardApi('content-moderation', {
         image: document.getElementById('imageUpload')
       });
+      output = result.output.detections;
     }
   } else {
     // alert('Good url [syntax]..');
     var result = await deepai.callStandardApi('content-moderation', {
       image: imageUrl
     });
+    output = result.output.detections;
   }
   await deepai.renderResultIntoElement(result, document.getElementById('rpt'));
+  console.log({ output });
 }
 
 function readURL(input) {

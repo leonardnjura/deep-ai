@@ -11,6 +11,10 @@ Uses machine learning on training sets based off of libraries like tensorflow to
 Clone and run yarn install.<br />
 Signup and head to your dashboard to see the testbed. User discretion is advised.
 
+Heroku
+--------
+Visit hosted frontend app <a href='https://lno-deepai.herokuapp.com'> here</a>.
+
 ## Licence
 
 This app is protected by MIT licence.<br />
