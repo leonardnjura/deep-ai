@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-        <title>App - Appcast</title>
-        <item>
-            <title>Version 1.0.9</title>
-            <description>desc</description>
-            <pubDate>Thu, 19 Nov 2020 21:57:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile" sparkle:version="1.0.9" sparkle:os="android" />
-        </item>
+    <app>
+      <release>
+            <date>2020-11-19</date>
+            <note lang="en">Update better kapsarr 💯</note>
+            <version>1.0.9</version>
+      </release>
         
-        <item>
-            <title>Version 1.1.0</title>
-            <description>desc</description>
-            <pubDate>Wed, 25 Nov 2020 17:31:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile" sparkle:version="1.1.0" sparkle:os="android" />
-        </item>
-        
-    </channel>
-</rss>
+      <release>
+            <date>2020-11-25</date>
+            <note lang="en">Update better kapsarr 💯</note>
+            <version>1.1.0</version>
+      </release>
+    </app>
