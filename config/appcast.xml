@@ -13,4 +13,12 @@
             <version>1.1.0</version>
             <build>20</build>
       </release>
+        
+                
+      <release>
+            <date>2020-11-26 00:00Hrs</date>
+            <note lang="en">Update better kapsarr 💯</note>
+            <version>1.1.2</version>
+            <build>21</build>
+      </release>
     </app>
