@@ -4,18 +4,13 @@
             <date>2020-11-19 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.9</version>
+            <build>19</build>
       </release>
         
       <release>
             <date>2020-11-25 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.1.0</version>
-      </release>
-        
-                
-      <release>
-            <date>2020-11-26 00:00Hrs</date>
-            <note lang="en">Update better kapsarr 💯</note>
-            <version>1.1.1</version>
+            <build>20</build>
       </release>
     </app>
