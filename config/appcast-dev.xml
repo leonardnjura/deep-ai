@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <app>
+<app>
+    
       <release>
             <date>2020-11-19 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
@@ -14,5 +15,4 @@
             <build>20</build>
       </release>
       
-
-    </app>
+</app>
