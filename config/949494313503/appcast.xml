@@ -5,6 +5,7 @@
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.0</version>
             <build>7</build>
+            <url>https://example.com/latest.apk</url>
       </release>
         
       <release>
@@ -12,6 +13,7 @@
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.0</version>
             <build>8</build>
+            <url>https://example.com/latest.apk</url>
       </release>
         
     
