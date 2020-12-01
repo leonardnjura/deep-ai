@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
     <app>
-      <release>
+        <release>
             <date>2020-11-19 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.9</version>
             <build>19</build>
             <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
-      </release>
+        </release>
         
-      <release>
+        <release>
             <date>2020-11-26 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.1.0</version>
             <build>20</build>
             <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
-      </release>
+        </release>
         
-     <release>
+        <release>
             <date>2020-11-30 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.1.1</version>
             <build>21</build>
             <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
-      </release>
+        </release>
+       
         
-    
-        
-        
-
     </app>
