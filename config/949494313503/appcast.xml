@@ -9,7 +9,7 @@
         </release>
 
         <release>
-            <date>2020-12-1 00:00Hrs</date>
+            <date>2020-12-01 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.0</version>
             <build>8</build>
@@ -17,23 +17,29 @@
         </release>
 
         <release>
-            <date>2020-12-2 00:00Hrs</date>
+            <date>2020-12-02 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.0</version>
             <build>9</build>
             <url>https://example.com/latest.apk</url>
         </release>
         
-        
         <release>
-            <date>2020-12-7 00:00Hrs</date>
+            <date>2020-12-07 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
             <version>1.0.0</version>
             <build>13</build>
-            <url>https://tblkenya-my.sharepoint.com/personal/leonard_njura_technobraingroup_com/Documents/Microsoft%20Teams%20Chat%20Files/ncc-app-debug-1.0.0+13.apk</url>
-        </release>      
+            <url>https://example.com/latest.apk</url>
+        </release>
+        
+        <release>
+            <date>2020-12-09 00:00Hrs</date>
+            <note lang="en">Update better kapsarr 💯</note>
+            <version>1.0.0</version>
+            <build>14</build>
+            <url>https://tblkenya-my.sharepoint.com/personal/leonard_njura_technobraingroup_com/Documents/Microsoft%20Teams%20Chat%20Files/ncc-app-debug-1.0.0+14.apk</url>
+        </release>    
 
 
 
     </app>
-
