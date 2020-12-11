@@ -39,6 +39,13 @@
             <build>24</build>
             <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
         </release>
-       
+               
+        <release>
+            <date>2020-12-08 00:00Hrs</date>
+            <note lang="en">Update better kapsarr 💯</note>
+            <version>1.1.4</version>
+            <build>25</build>
+            <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
+        </release>
         
     </app>
