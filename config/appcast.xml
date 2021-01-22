@@ -87,5 +87,13 @@
             <build>32</build>
             <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
         </release>
+        
+        <release>
+            <date>2021-01-22 00:00Hrs</date>
+            <note lang="en">Update better kapsarr 💯 : Biden-harris-jill inaugural/Trump-pence-melania farewell edition</note>
+            <version>1.2.1</version>
+            <build>34</build>
+            <url>https://play.google.com/store/apps/details?id=com.technobrain.rms.blantyre_rms_mobile</url>
+        </release>
 
     </app>
