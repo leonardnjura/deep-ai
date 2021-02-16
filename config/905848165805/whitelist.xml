@@ -20,5 +20,12 @@
             <username>mkabutu</name>
             <sim>358590480229465</build>
         </tester>
+          
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted tester 💯</note>
+            <username>tbanda</name>
+            <sim>89265029100412243121</build>
+        </tester>
 
     </app>
