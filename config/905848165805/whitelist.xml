@@ -3,29 +3,29 @@
         <tester>
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted developer 💯</note>
-            <username>leonard</name>
-            <sim>8925400000000000</build>
+            <username>leonard</username>
+            <sim>8925400000000000</sim>
         </tester>
         
         <tester>
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted tester 💯</note>
-            <username>ngomo</name>
-            <sim>89265029100412242768</build>
+            <username>ngomo</username>
+            <sim>89265029100412242768</sim>
         </tester>
         
         <tester>
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted tester 💯</note>
-            <username>mkabutu</name>
-            <sim>358590480229465</build>
+            <username>mkabutu</username>
+            <sim>358590480229465</sim>
         </tester>
           
         <tester>
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted tester 💯</note>
-            <username>tbanda</name>
-            <sim>89265029100412243121</build>
+            <username>tbanda</username>
+            <sim>89265029100412243121</sim>
         </tester>
 
     </app>
