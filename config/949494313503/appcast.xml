@@ -103,6 +103,14 @@
             <build>32</build>
             <url>https://tblkenya-my.sharepoint.com/personal/leonard_njura_technobraingroup_com/Documents/Microsoft%20Teams%20Chat%20Files/ncc-app-debug-1.0.0+32.apk</url>
         </release> 
+                
+        <release>
+            <date>2021-05-04 00:00Hrs</date>
+            <note lang="en">Update better kapsarr 💯</note>
+            <version>1.0.0</version>
+            <build>41</build>
+            <url>https://tblkenya-my.sharepoint.com/personal/leonard_njura_technobraingroup_com/Documents/Microsoft%20Teams%20Chat%20Files/ncc-app-debug-uat-1.0.0+41.apk</url>
+        </release> 
 
   
 
