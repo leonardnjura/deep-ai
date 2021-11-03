@@ -6,5 +6,26 @@
             <username>leonard</username>
             <sim>89265029100412243089</sim>
         </tester>
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>mtembo</username>
+            <sim>89265029100448717536</sim>
+        </tester>
+             
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer ms 💯</note>
+            <username>rmunthali</username>
+            <sim>89265029100448717080</sim>
+        </tester>  
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer mc 💯</note>
+            <username>mtembo</username>
+            <sim>89265029100448717536</sim>
+        </tester>
 
     </app>
