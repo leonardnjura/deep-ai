@@ -7,15 +7,7 @@
             <sim>8925400000000000</sim>
             <imei>editMe==</imei>
         </tester>
-            
-        <tester>
-            <date>2020-02-16 00:00Hrs</date>
-            <note lang="en">Trusted developer 💯</note>
-            <username>leonardCs</username>
-            <sim>89265029100396134924</sim>
-            <imei>editMe==</imei>
-        </tester>
-        
+         
         <tester>
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted developer 💯</note>
@@ -30,37 +22,13 @@
             <username>leonardCw</username>
             <sim>89265029100412243048</sim>
             <imei>editMe==</imei>
-        </tester>
-    
-        <tester>
-            <date>2020-02-16 00:00Hrs</date>
-            <note lang="en">Trusted tester 💯</note>
-            <username>ngomo</username>
-            <sim>89265029100412242768</sim>
-            <imei>editMe==</imei>
-        </tester>
-        
-        <tester>
-            <date>2020-02-16 00:00Hrs</date>
-            <note lang="en">Trusted tester 💯</note>
-            <username>mkabutu</username>
-            <sim>358590480229465</sim>
-            <imei>editMe==</imei>
-        </tester>
-        
-        <tester>
-            <date>2021-06-14 00:00Hrs</date>
-            <note lang="en">Trusted tester 💯</note>
-            <username>limbani</username>
-            <sim>89265029100412242834</sim>
-            <imei>editMe==</imei>
         </tester>  
         
         <tester>
-            <date>2021-06-22 00:00Hrs</date>
-            <note lang="en">Trusted tester 💯</note>
-            <username>vishwa</username>
-            <sim>89918540500037010561</sim>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>leonardCs</username>
+            <sim>89265029100396134924</sim>
             <imei>editMe==</imei>
         </tester>
 
