@@ -47,5 +47,21 @@
             <sim>89918540500037010561</sim>
             <imei>editMe==</imei>
         </tester>
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>limbaniTrim</username>
+            <sim>869438030894994</sim>
+            <imei>editMe==</imei>
+        </tester>
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>limbaniBulk</username>
+            <sim>869438031274808</sim>
+            <imei>editMe==</imei>
+        </tester>
 
     </app>
