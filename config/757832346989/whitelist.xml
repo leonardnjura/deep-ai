@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <app>
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>leonard</username>
+            <sim>8925400000000000</sim>
+            <imei>editMe==</imei>
+        </tester>
+         
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>leonardMc</username>
+            <sim>4466644</sim>
+            <imei>editMe==</imei>
+        </tester>
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>leonardCw</username>
+            <sim>356330117491606</sim>
+            <imei>editMe==</imei>
+        </tester>  
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>leonardCs</username>
+            <sim>33422</sim>
+            <imei>editMe==</imei>
+        </tester>
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>limbaniTrim</username>
+            <sim>89265029100396127241</sim>
+            <imei>editMe==</imei>
+        </tester>
+        
+        <tester>
+            <date>2020-02-16 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>limbaniBulk</username>
+            <sim>89265029100396127241</sim>
+            <imei>editMe==</imei>
+        </tester>
+
+    </app>
