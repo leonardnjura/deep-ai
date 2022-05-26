@@ -12,7 +12,7 @@
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted developer 💯</note>
             <username>leonardMc</username>
-            <sim>89265029100000000001</sim>
+            <sim>89918540500037000001</sim>
             <imei>editMe==</imei>
         </tester>
         
@@ -20,7 +20,7 @@
             <date>2022-02-02 00:00Hrs</date>
             <note lang="en">Trusted developer 💯</note>
             <username>leonardCw</username>
-            <sim>89265029100000000002</sim>
+            <sim>89918540500037000002</sim>
             <imei>editMe==</imei>
         </tester>  
         
@@ -28,7 +28,7 @@
             <date>2020-02-16 00:00Hrs</date>
             <note lang="en">Trusted developer 💯</note>
             <username>leonardCs</username>
-            <sim>89265029100000000003</sim>
+            <sim>89918540500037000003</sim>
             <imei>editMe==</imei>
         </tester>
         
@@ -51,8 +51,22 @@
         <tester>
             <date>2022-02-01 00:00Hrs</date>
             <note lang="en">Trusted developer 💯</note>
+            <username>vbommanaMc</username>
+            <sim>89918540500037000004</sim>
+            <imei>editMe==</imei>
+        </tester>      
+        <tester>
+            <date>2022-02-01 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
             <username>vbommanaCW</username>
-            <sim>89918540500037010561</sim>
+            <sim>89918540500037000005</sim>
+            <imei>editMe==</imei>
+        </tester>      
+        <tester>
+            <date>2022-02-01 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>vbommanaCs</username>
+            <sim>89918540500037000006</sim>
             <imei>editMe==</imei>
         </tester>
 
