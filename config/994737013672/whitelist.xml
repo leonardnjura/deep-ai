@@ -69,5 +69,19 @@
             <sim>89918540500037000006</sim>
             <imei>editMe==</imei>
         </tester>
+        <tester>
+            <date>2022-08-01 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>iuseni</username>
+            <sim>89265029100412242651</sim>
+            <imei>editMe==</imei>
+        </tester>
+        <tester>
+            <date>2022-08-01 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>tmilanzi</username>
+            <sim>89265029100412242701</sim>
+            <imei>editMe==</imei>
+        </tester>
 
     </app>
