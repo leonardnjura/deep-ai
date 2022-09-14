@@ -83,5 +83,12 @@
             <sim>89265029100412242701</sim>
             <imei>editMe==</imei>
         </tester>
+        <tester>
+            <date>2022-09-01 00:00Hrs</date>
+            <note lang="en">Trusted developer 💯</note>
+            <username>amwanza01</username>
+            <sim>89265029100412242826</sim>
+            <imei>editMe==</imei>
+        </tester>
 
     </app>
