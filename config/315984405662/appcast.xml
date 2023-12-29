@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <app>
         <release>
-            <date>2023-12-06 00:00Hrs</date>
+            <date>2023-12-29 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
-            <version>1.0.0</version>
-            <build>1</build>
+            <version>1.3.0</version>
+            <build>29</build>
             <url>https://play.google.com/store/apps/details?id=com.codesandme.ai_image_describer</url>
         </release>
         
