@@ -9,10 +9,10 @@
         </release>
         
         <release>
-            <date>2024-03-24 00:00Hrs</date>
+            <date>2024-04-02 00:00Hrs</date>
             <note lang="en">Update better kapsarr 💯</note>
-            <version>1.7.1</version>
-            <build>70</build>
+            <version>1.7.2</version>
+            <build>71</build>
             <url>https://play.google.com/store/apps/details?id=com.codesandme.ai_image_describer</url>
         </release>
     </app>
