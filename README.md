@@ -1,4 +1,3 @@
-<img width="1024" height="1024" alt="logo-edu" src="https://github.com/user-attachments/assets/f1fcef74-ab67-4902-9c92-15838199d40b" />
 # deep-ai
 
 NGFW artificial intelligence with human anatomy and protecting some pages with passportJS
