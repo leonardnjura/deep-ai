@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--https://github.com/leonardnjura/deep-ai/blob/logos/README.md-->
+<amigos>
+  <amigo email="debby@example.com" expiry="2026-12-12" />
+  <amigo email="d.nyaberi@example.com" />
+</amigos>
