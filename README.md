@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="logo-edu" src="https://github.com/user-attachments/assets/f1fcef74-ab67-4902-9c92-15838199d40b" />
 # deep-ai
 
 NGFW artificial intelligence with human anatomy and protecting some pages with passportJS
@@ -31,6 +32,8 @@ This app is protected by MIT licence.<br />
 <img width="32" height="auto" alt="logo-lf" src="https://github.com/user-attachments/assets/776d97fe-6c11-4ccf-932b-23c6490b1733" />
 <img width="32" height="auto" alt="logo-co" src="https://github.com/user-attachments/assets/21feeedb-2774-491e-9e98-8785f75df764" />
 <img width="32" height="auto" alt="logo-cm" src="https://github.com/user-attachments/assets/25381711-9fc6-438b-931c-fc915c0ab426" />
+<img width="32" height="auto" alt="logo-edu" src="https://github.com/user-attachments/assets/af3ad4dc-bb6a-4507-ba83-167fddf1ca40" />
+
 
 
 
