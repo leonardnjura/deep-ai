@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Use dl=1 instead of dl=0 if you want the app to start the download immediately rather than opening the Dropbox preview page -->
 <app>
     <release>
         <date>2026-03-18 00:00Hrs</date>
@@ -6,7 +7,7 @@
         <version>1.0.0</version>
         <build>1</build>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=0]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=1]]></url-windows>
         <url-linux><![CDATA[https://www.dropbox.com/scl/fi/foo/PppCalculatorSetup-v1.0.0-12.deb]]></url-linux>
         <url-macos><![CDATA[https://www.dropbox.com/scl/fi/bar/PppCalculatorSetup-v1.0.0-12.dmg]]></url-macos>
     </release>
@@ -16,7 +17,7 @@
         <version>1.0.0</version>
         <build>12</build>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=0]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=1]]></url-windows>
         <url-linux><![CDATA[https://www.dropbox.com/scl/fi/foo/PppCalculatorSetup-v1.0.0-12.deb]]></url-linux>
         <url-macos><![CDATA[https://www.dropbox.com/scl/fi/bar/PppCalculatorSetup-v1.0.0-12.dmg]]></url-macos>
     </release>
