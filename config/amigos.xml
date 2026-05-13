@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--can test tba spawned in ppp; -->
 <amigos>
-  <amigo email="user@example.com" />
-  <amigo email="debby@example.com" expiry="2026-12-12" />
-  <amigo email="d.nyaberi@example.com" />
+  <amigo email="xxx@example.com" />
+  <amigo email="yyy@example.com" expiry="2026-12-12" />
+  <amigo email="zzz@example.com" />
 </amigos>
