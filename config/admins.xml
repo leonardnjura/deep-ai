@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--can test codesandme instances [unlimited]; -->
-<amigos>
-  <amigo email="aaa@example.com" />
-  <amigo email="bbb@example.com" expiry="2026-12-12" />
-  <amigo email="admin.girliex@example.com" expiry="2026-01-12" />
-</amigos>
+<admins>
+  <admin email="aaa@example.com" />
+  <admin email="bbb@example.com" expiry="2026-12-12" />
+  <admin email="admin.girliex@example.com" expiry="2026-01-12" />
+</admins>
