@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appSettings>
+    <!-- Format: YYYY-MM-DD. Change this date to trigger subscription locks. -->
+    <freeloadersExpiry value="2026-12-12" />
+    
+    <!-- Remote URL pointing to the latest platform installer payload -->
+    <windowsUpdate value="https://somelink" app="ppp" />
+</appSettings>
