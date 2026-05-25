@@ -3,22 +3,19 @@
 <app>
     <release>
         <date>2026-03-18 00:00Hrs</date>
-        <note lang="en">Update better kapsarr 💯</note>
+        <note lang="en">Initial update better kapsarr 💯</note>
         <version>1.0.0</version>
         <build>1</build>
-        <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
+        <url-android></url-android>
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=1]]></url-windows>
-        <url-linux><![CDATA[https://www.example.com/bar/PppCalculatorSetup-v1.0.0-12.deb]]></url-linux>
-        <url-macos><![CDATA[https://www.example.com/bar/PppCalculatorSetup-v1.0.0-12.dmg]]></url-macos>
+        <url-linux></url-linux>
+        <url-macos></url-macos>
     </release>
     <release>
         <date>2026-05-10 00:00Hrs</date>
-        <note lang="en">Update better kapsarr 💯</note>
+        <note lang="en">Latest update better kapsarr 💯</note>
         <version>1.0.0</version>
         <build>12</build>
-        <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=1]]></url-windows>
-        <url-linux><![CDATA[https://www.example.com/bar/PppCalculatorSetup-v1.0.0-12.deb]]></url-linux>
-        <url-macos><![CDATA[https://www.example.com/bar/PppCalculatorSetup-v1.0.0-12.dmg]]></url-macos>
-    </release>
+        </release>
 </app>
