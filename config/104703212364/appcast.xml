@@ -7,7 +7,7 @@
         <version>1.0.0</version>
         <build>1</build>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=1]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/iqklv50iiiol7c00tx47x/TableBankingAppSetup-v1.0.0.25.exe?rlkey=009ob58i7cml0c8ibjeldl9xx&st=4sjmwmxy&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
     </release>
