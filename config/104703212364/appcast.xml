@@ -16,6 +16,9 @@
         <note lang="en">Latest update better kapsarr 💯</note>
         <version>1.0.0</version>
         <build>26</build>
+        <url-android></url-android>
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/f7cjh4pwwlf7gvuifxrso/TableBankingAppSetup-v1.0.0.26.exe?rlkey=zwbp9as5aljavs1oz3u85rd9t&st=4mdut92d&dl=1]]></url-windows>
-        </release>
+        <url-linux></url-linux>
+        <url-macos></url-macos>
+    </release>
 </app>
