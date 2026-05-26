@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <app>
-        <release>
-            <date>2026-03-31 00:00Hrs</date>
-            <note lang="en">Update better kapsarr 💯</note>
-            <version>1.0.0</version>
-            <build>1</build>
-            <url>https://play.google.com/store/apps/details?id=com.codesandme.table_banking_app</url>
-        </release>
-        
-        <release>
-            <date>2026-03-31 00:00Hrs</date>
-            <note lang="en">Update better kapsarr 💯</note>
-            <version>1.0.0</version>
-            <build>1</build>
-            <url>https://play.google.com/store/apps/details?id=com.codesandme.table_banking_app</url>
-        </release>
-    </app>
+<!-- Use dl=1 instead of dl=0 if you want the app to start the download immediately rather than opening the Dropbox preview page -->
+<app>
+    <release>
+        <date>2026-03-18 00:00Hrs</date>
+        <note lang="en">Previous update better kapsarr 💯</note>
+        <version>1.0.0</version>
+        <build>1</build>
+        <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.table_banking_app]]></url-android>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/iqklv50iiiol7c00tx47x/TableBankingAppSetup-v1.0.0.25.exe?rlkey=009ob58i7cml0c8ibjeldl9xx&st=4sjmwmxy&dl=1]]></url-windows>
+        <url-linux></url-linux>
+        <url-macos></url-macos>
+    </release>
+    <release>
+        <date>2026-05-10 00:00Hrs</date>
+        <note lang="en">Latest update better kapsarr 💯</note>
+        <version>1.0.0</version>
+        <build>26</build>
+        <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.table_banking_app]]></url-android>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/f7cjh4pwwlf7gvuifxrso/TableBankingAppSetup-v1.0.0.26.exe?rlkey=zwbp9as5aljavs1oz3u85rd9t&st=4mdut92d&dl=1]]></url-windows>
+        <url-linux></url-linux>
+        <url-macos></url-macos>
+    </release>
+</app>
