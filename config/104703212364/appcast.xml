@@ -6,7 +6,7 @@
         <note lang="en">Initial update better kapsarr 💯</note>
         <version>1.0.0</version>
         <build>1</build>
-        <url-android></url-android>
+        <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/e1t1h2wnuuozelop8ftze/PppCalculatorSetup-v1.0.0-12.exe?rlkey=uu7brqjewhmgykj41zywip76p&st=24dpel96&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
@@ -16,7 +16,7 @@
         <note lang="en">Latest update better kapsarr 💯</note>
         <version>1.0.0</version>
         <build>26</build>
-        <url-android></url-android>
+        <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.ppp_calculator]]></url-android>
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/f7cjh4pwwlf7gvuifxrso/TableBankingAppSetup-v1.0.0.26.exe?rlkey=zwbp9as5aljavs1oz3u85rd9t&st=4mdut92d&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
