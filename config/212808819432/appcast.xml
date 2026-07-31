@@ -12,12 +12,12 @@
         <url-macos></url-macos>
     </release>
     <release>
-        <date>2026-07-27 00:00Hrs</date>
+        <date>2026-07-31 00:00Hrs</date>
         <note lang="en">Latest update better kapsarr 💯</note>
         <version>1.0.9</version>
-        <build>29</build>
+        <build>30</build>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.shopos]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/f8av2cge6k962s9f10qjg/ShoposSetup-v1.0.9.29.exe?rlkey=zotg2q4vrm5c327u7cfypirjf&st=xh2uzdvo&dl=1]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/le9wsfi24pb3ruoyprkze/ShoposSetup-v1.0.9.30.exe?rlkey=ub7xv8lmupcxypianbra3dfra&st=mfldoh1s&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
     </release>
