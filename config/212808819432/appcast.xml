@@ -10,6 +10,7 @@
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/f8av2cge6k962s9f10qjg/ShoposSetup-v1.0.9.29.exe?rlkey=zotg2q4vrm5c327u7cfypirjf&st=xh2uzdvo&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
+        <manual>https://medium.com/@codesandme_8877/shopos-49197a9af241</manual>
     </release>
     <release>
         <date>2026-07-31 00:00Hrs</date>
@@ -20,5 +21,6 @@
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/le9wsfi24pb3ruoyprkze/ShoposSetup-v1.0.9.30.exe?rlkey=ub7xv8lmupcxypianbra3dfra&st=mfldoh1s&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
+        <manual>https://medium.com/@codesandme_8877/shopos-49197a9af241</manual>
     </release>
 </app>
