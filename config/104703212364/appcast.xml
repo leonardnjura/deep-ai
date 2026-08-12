@@ -10,6 +10,7 @@
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/iqklv50iiiol7c00tx47x/TableBankingAppSetup-v1.0.0.25.exe?rlkey=009ob58i7cml0c8ibjeldl9xx&st=4sjmwmxy&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
+        <manual><![CDATA[https://medium.com/@codesandme_8877/table-banking-app-243e9df31588]]></manual>
     </release>
     <release>
         <date>2026-08-12 00:00Hrs</date>
@@ -20,5 +21,6 @@
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/n9nn6f82qu2hddbl0k2x1/TableBankingAppSetup-v1.0.0.36.exe?rlkey=4wh7ca3tegj5vi8w0r0932pbg&st=2wdydpe6&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
+        <manual><![CDATA[https://medium.com/@codesandme_8877/table-banking-app-243e9df31588]]></manual>
     </release>
 </app>
