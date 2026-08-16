@@ -16,9 +16,9 @@
         <date>2026-08-12 00:00Hrs</date>
         <note lang="en">Latest update better kapsarr 💯</note>
         <version>1.0.0</version>
-        <build>36</build>
+        <build>37</build>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.table_banking_app]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/n9nn6f82qu2hddbl0k2x1/TableBankingAppSetup-v1.0.0.36.exe?rlkey=4wh7ca3tegj5vi8w0r0932pbg&st=2wdydpe6&dl=1]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/z0ul5c3v2b8tldffeypue/TableBankingAppSetup-v1.0.0.37.exe?rlkey=4tnrnvhktq9a45z5ihj0umkz4&st=e8qjh1tg&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
         <manual><![CDATA[https://medium.com/@codesandme_8877/table-banking-app-243e9df31588]]></manual>
