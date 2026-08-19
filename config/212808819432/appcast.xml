@@ -6,6 +6,7 @@
         <note lang="en">Initial update better kapsarr 💯</note>
         <version>1.0.0</version>
         <build>1</build>
+        <critical>F</critical>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.shopos]]></url-android>
         <url-windows><![CDATA[https://www.dropbox.com/scl/fi/f8av2cge6k962s9f10qjg/ShoposSetup-v1.0.9.29.exe?rlkey=zotg2q4vrm5c327u7cfypirjf&st=xh2uzdvo&dl=1]]></url-windows>
         <url-linux></url-linux>
@@ -13,12 +14,13 @@
         <manual><![CDATA[https://medium.com/@codesandme_8877/shopos-49197a9af241]]></manual>
     </release>
     <release>
-        <date>2026-08-18 00:00Hrs</date>
+        <date>2026-08-19 00:00Hrs</date>
         <note lang="en">Latest update better kapsarr 💯</note>
         <version>1.0.9</version>
-        <build>39</build>
+        <build>40</build>
+        <critical>F</critical>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.shopos]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/pqsq0sm5b1b9eecic5zb2/ShoposSetup-v1.0.9.39.exe?rlkey=0xla87hmabxsi9agsvj3mlil5&st=tbzt77ba&dl=1]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/b0tbfl48nwggtufbf8z0j/ShoposSetup-v1.0.9.40.exe?rlkey=e02dloqod4pbdmnde77fezt92&st=47xvnmxb&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
         <manual><![CDATA[https://medium.com/@codesandme_8877/shopos-49197a9af241]]></manual>
