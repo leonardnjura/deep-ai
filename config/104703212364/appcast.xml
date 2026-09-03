@@ -20,7 +20,7 @@
         <build>41</build>
         <critical>F</critical>
         <url-android><![CDATA[https://play.google.com/store/apps/details?id=com.codesandme.table_banking_app]]></url-android>
-        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/sggiy59402pwy5vt333ag/TableBankingAppSetup-v1.0.0.41.exe?rlkey=ewl1u1fjxesvw71o6hc8soaux&st=iss4bslu&dl=1]]></url-windows>
+        <url-windows><![CDATA[https://www.dropbox.com/scl/fi/85u7zfyexw978oe48jjs2/TableBankingAppSetup-v1.0.0.41.exe?rlkey=ik54cih164zdp1lgk83xnoju4&st=t57cuk60&dl=1]]></url-windows>
         <url-linux></url-linux>
         <url-macos></url-macos>
         <manual><![CDATA[https://medium.com/@codesandme_8877/table-banking-app-243e9df31588]]></manual>
